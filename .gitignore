@@ -2,3 +2,7 @@ pretrained_embedding
 data
 __pycache__
 .ipynb_checkpoints
+bert_ner/model/
+bert_ner/runs/
+bert_ner/wandb/
+submission/
