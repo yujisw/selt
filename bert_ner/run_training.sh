@@ -1,6 +1,6 @@
 export MAX_LENGTH=128
 export BERT_MODEL=bert-base-multilingual-cased
-export OUTPUT_DIR=model_test
+export OUTPUT_DIR=model/test
 export BATCH_SIZE=32
 export NUM_EPOCHS=3
 export SAVE_STEPS=750
